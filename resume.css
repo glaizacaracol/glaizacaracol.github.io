@@ -1,11 +1,11 @@
 body{
-    background-image: linear-gradient(#d4d3d3, #b1afaf);
+    background-image: linear-gradient(#e072e442, #f189ff5d);
     height: 122vh;
     font-weight: bold;
     letter-spacing: 2px;
 }
 *{
-    margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
+    margin: 0px; padding: 0px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .main{
     background-color: white;
