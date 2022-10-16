@@ -84,5 +84,18 @@ body{
     color: antiquewhite;
  }
  .html{
-    
+    width: 90px;
+    background-color: antiquewhite;
+ }
+ .css{
+    width: 80%;
+    background-color: ;
+ }
+ .python{
+    width: 80%;
+    background-color: antiquewhite;
+ }
+ .javascript{
+    width: 80%;
+    background-color: antiquewhite;
  }
